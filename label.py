@@ -1,4 +1,7 @@
 # coding: utf-8
+
+#remember to use right keyboard-pad
+
 from evdev import InputDevice
 from select import select
 import os
